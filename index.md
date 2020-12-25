@@ -16,17 +16,22 @@ Amount | Type | Date | Supplier | Balance | Due Date | Settled | Reference | Not
 26100 | Sale | 02/12/2020 | Capital Creation | 39668 | 15/12/2020 | N | 003 | 80548 - 26100 = 54448
 40000 | Sale | 16/12/2020 | Capital Creation | 79668 | 15/12/2020 | N | 003 | 54448 - 40000 = 14448
 14448 | Sale | 16/12/2020 | Capital Creation | 94116 | 15/12/2020 | Y | 003 | 14448 - 14448 = 0
-2000 | Divident | 16/12/2020 | Abdulvahab | 92116 | | Y | | For home expense
+-2000 | Divident | 16/12/2020 | Abdulvahab | 92116 | | Y | | For home expense
+-5000 | Divident | 22/12/2020 | Abdulvahab | 87116 | | Y | | For home expense
+50000 | Sale | 20/12/2020 | Capital Creation | 137116 | 20/12/2020 | N |3714 | 86735.25 - 50000 = 36735.25
+-114000 | Buying | 20/12/2020 | K K Fabrics | 23116 |  | Y |CF-3014 | Order for Rayon from Ahd.
+
 
 
 
 
 # Capital Creation Credit Account
 
-Reference | Meter |  Rate | Total | Purchase Date | Due Date| Settled
------------|---------|------|-------|-----------------|-----------|-----------
-001 | | | 61402 | 11/09/2020| 29/09/2020 | Y
-002 | | | 60630 | 06/10/2020| 15/10/2020 | Y
-003 | 1549 | 52 | 80548 | 25/11/2020 | 15/12/2020 | Y
-3714 | 1376.75 | 63 | 86735.25 | 01/12/2020 | 20/12/2020 | N
+Reference | Meter |  Rate | Net Total | GST | Gross Total | Purchase Date | Due Date| Settled | Balance Due
+----|-------|---------|------|-------|-------|----|------|-----------|-----------
+001 | | | 61402 | 0 | 61402|11/09/2020| 29/09/2020 | Y | 0
+002 | | | 60630 | 0 |60630 |06/10/2020| 15/10/2020 | Y | 0
+003 | 1549 | 52 | 80548 | 80548 |0 |25/11/2020 | 15/12/2020 | Y | 0
+3714 | 1376.75 | 63 | 86735.25 | 0 | 86735.25 |01/12/2020 | 20/12/2020 | N | 36735.25
+CF-3014 | 1840.25 | 61 | 112255.25 | 5612.76 | 117868.01 |20/12/2020 | 10/01/2021 | N | 117868.01
 
