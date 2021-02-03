@@ -19,10 +19,15 @@ Amount | Type | Date | Supplier | Balance | Due Date | Settled | Reference | Not
 -2000 | Divident | 16/12/2020 | Abdulvahab | 92116 | | Y | | For home expense
 -5000 | Divident | 22/12/2020 | Abdulvahab | 87116 | | Y | | For home expense
 50000 | Sale | 20/12/2020 | Capital Creation | 137116 | 20/12/2020 | N |3714 | 86735.25 - 50000 = 36735.25
--114000 | Buying | 20/12/2020 | K K Fabrics | 23116 |  | Y |CF-3014 | Order for Rayon from Ahd.
+-114000 | Buying | 20/12/2020 | K K Fabrics | 23116 |10/01/2021  | Y |CF-3014 | Order for Rayon from Ahd.
 15000 | Sale | 10/01/2020 | Capital Creation | 38116 |20/12/2020 | N | 3714 | 36735.25 - 15000 = 21735.26
-21735.25 | Sale | 25/01/2020 | Capital Creation | 38116 |20/12/2020 | N | 3714 | 21735.25 - 21735.25 = 0
-45264.75 | Sale | 25/01/2020 | Capital Creation | 38116 |20/12/2020 | N | CF-3014 | 117868.01 - 45264.75 = 72603.26
+21735.25 | Sale | 25/01/2021 | Capital Creation | 59851.25 |20/12/2020 | N | 3714 | 21735.25 - 21735.25 = 0
+45264.75 | Sale | 25/01/2021 | Capital Creation | 105116 |10/01/2021 | N | CF-3014 | 117868.01 - 45264.75 = 72603.26
+33000.00 | Sale | 26/01/2021 | Capital Creation | 138116 | 10/01/2021 | N | CF-3014 | 72603.26 - 33000 = 39603.26
+25,000.00 | Sale | 01/02/2021 | Capital Creation | 163116 | 10/01/2021 | N | CF-3014 | 39603.24 - 25000 = 14603.26
+14604 | Sale | 02/02/2021 | Capital Creation | 177720 | 10/01/2021 | Y | CF-3014 | 14603.26- 14604 = 0
+50000 | Divident | 01/02/2021 | Abdulvahab Kharadi | 127720 | | Y | | Transfer into citibank
+50000 | Divident | 03/02/2021 | Abdulvahab Kharadi | 77720 | | Y| Transfer into citbank
 
 
 
@@ -37,5 +42,6 @@ Reference | Meter |  Rate | Net Total | GST | Gross Total | Purchase Date | Due 
 002 | | | 60630 | 0 |60630 |06/10/2020| 15/10/2020 | Y | 0
 003 | 1549 | 52 | 80548 | 0 |80548 |25/11/2020 | 15/12/2020 | Y | 0
 3714 | 1376.75 | 63 | 86735.25 | 0 | 86735.25 |01/12/2020 | 20/12/2020 | Y | 86735.25 - 50000 - 15000 - 21735.25 = 0
-CF-3014 | 1840.25 | 61 | 112255.25 | 5612.76 | 117868.01 |20/12/2020 | 10/01/2021 | N | 117868.01 - 45264.75 = 72603.26
+CF-3014 | 1840.25 | 61 | 112255.25 | 5612.76 | 117868.01 |20/12/2020 | 10/01/2021 | N | 117868.01 - 45264.75 - 25000 - 14604 = 0
+
 
